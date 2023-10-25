@@ -1,5 +1,1 @@
-# WebLabs
-
-- lab 1 - first commit
-
-- tema 1
+tema 1 - web lab
