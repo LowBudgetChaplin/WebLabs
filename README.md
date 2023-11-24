@@ -1,1 +1,1 @@
-temele 1 si 2 - web lab
+temele 1 web lab
